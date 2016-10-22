@@ -17,7 +17,7 @@ class Cnpj {
     private $cnpj = null;
 
     protected $fillable = array(
-        'tividade_principal',
+        'atividade_principal',
         'data_situacao',
         'complemento',
         'tipo',
